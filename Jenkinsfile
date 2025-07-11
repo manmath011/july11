@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello World from main first modification'
+                echo 'Hello World from main first modification next level'
             }
         }
     }
