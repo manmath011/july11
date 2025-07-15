@@ -5,7 +5,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello World from feature1 '
+                echo 'Hello World from feature1 modified at 14:23'
             }
         }
     }
